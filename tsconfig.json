@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "lib",
-    "strict": true,
-    "rootDir": "src"
+    "outDir": "dist",
+    "strict": true
   },
-  "exclude": ["__tests__", "node_modules"]
+  "include": ["src/**/*"]
 }

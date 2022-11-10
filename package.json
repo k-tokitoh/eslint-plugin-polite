@@ -2,7 +2,7 @@
   "name": "eslint-plugin-polite",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "author": "",
   "license": "MIT",
   "scripts": {
